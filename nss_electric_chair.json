@@ -1,3 +1,8 @@
 {
-  "version": "1.0.2"
+  "version": "1.0.3",
+  "dependencies": {
+    "1.0.3": {
+      "nss_libs": "0.23.0"
+    }
+  }
 }
