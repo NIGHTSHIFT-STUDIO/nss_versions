@@ -1,4 +1,9 @@
 {
   "version": "1.0.0",
-  "dependencies": {}
+  "dependencies": {
+    "1.0.0": {
+      "nss_libs": "0.27.1",
+      "vorp_core": "2.3.0"
+    }
+  }
 }
