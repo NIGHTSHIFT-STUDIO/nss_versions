@@ -1,5 +1,5 @@
 {
-  "version": "1.6.0",
+  "version": "1.6.1",
   "dependencies": {
     "1.6.1": {
       "nss_libs": "0.30.0"
