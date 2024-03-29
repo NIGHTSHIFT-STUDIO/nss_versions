@@ -1,7 +1,7 @@
 {
   "version": "0.31.0",
   "dependencies": {
-    "0.31.1": {
+    "0.32.0": {
       "vorp_inventory": "3.5.0",
       "vorp_core": "2.2.0"
     },
