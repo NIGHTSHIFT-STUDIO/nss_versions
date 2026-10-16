@@ -1,6 +1,10 @@
 {
-  "version": "0.38.1",
+  "version": "0.39.0",
   "dependencies": {
+    "0.39.0": {
+      "vorp_inventory": "3.5.0",
+      "vorp_core": "2.2.0"
+    },
     "0.38.1": {
       "vorp_inventory": "3.5.0",
       "vorp_core": "2.2.0"
