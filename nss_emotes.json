@@ -1,6 +1,10 @@
 {
-  "version": "2.1.0",
+  "version": "2.1.1",
   "dependencies": {
+    "2.1.1": {
+      "nss_libs": "0.39.0",
+      "vorp_inventory": "2.6"
+    },
     "2.1.0": {
       "nss_libs": "0.37.1",
       "vorp_inventory": "2.6"
